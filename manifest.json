@@ -1,7 +1,7 @@
 {
   "name": "Modern-Tic-Tac-Toe",
   "short_name": "TicTacToe",
-  "start_url": "index.html",
+  "start_url": "https://modern-tic-tac-toe1.netlify.app/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#333333",
